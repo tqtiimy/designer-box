@@ -1,0 +1,12 @@
+INPUT(
+./..\..\..\software\shared\update\obj\qupdateplugin.o
+./..\..\..\software\shared\update\obj\qnetupdate.o
+./..\..\..\software\shared\update\obj\qlistendevice.o
+./..\..\..\software\shared\update\obj\qheartbest.o
+./..\..\..\software\shared\update\obj\qsendfile.o
+./..\..\..\software\shared\update\obj\moc_qupdateplugin.o
+./..\..\..\software\shared\update\obj\moc_qnetupdate.o
+./..\..\..\software\shared\update\obj\moc_qlistendevice.o
+./..\..\..\software\shared\update\obj\moc_qheartbest.o
+./..\..\..\software\shared\update\obj\moc_qsendfile.o
+);

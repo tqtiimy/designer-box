@@ -1,0 +1,12 @@
+INPUT(
+./..\..\..\software\shared\resourceeditor\obj\qbaesfileeditorplugin.o
+./..\..\..\software\shared\resourceeditor\obj\qplaintexteditor.o
+./..\..\..\software\shared\resourceeditor\obj\qimageeditor.o
+./..\..\..\software\shared\resourceeditor\obj\qimageview.o
+./..\..\..\software\shared\resourceeditor\obj\qtexteditview.o
+./..\..\..\software\shared\resourceeditor\obj\moc_qbaesfileeditorplugin.o
+./..\..\..\software\shared\resourceeditor\obj\moc_qplaintexteditor.o
+./..\..\..\software\shared\resourceeditor\obj\moc_qimageeditor.o
+./..\..\..\software\shared\resourceeditor\obj\moc_qimageview.o
+./..\..\..\software\shared\resourceeditor\obj\moc_qtexteditview.o
+);

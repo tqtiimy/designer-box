@@ -1,0 +1,17 @@
+INPUT(
+./..\..\..\software\pages\resource\obj\qresourceplugin.o
+./..\..\..\software\pages\resource\obj\qresourcewidget.o
+./..\..\..\software\pages\resource\obj\qresourcefilelist.o
+./..\..\..\software\pages\resource\obj\qaddfilegroupdialog.o
+./..\..\..\software\pages\resource\obj\qaddfiledialog.o
+./..\..\..\software\pages\resource\obj\qeditorwidget.o
+./..\..\..\software\pages\resource\obj\qstyledbarwidget.o
+./..\..\..\software\pages\resource\obj\moc_qresourceplugin.o
+./..\..\..\software\pages\resource\obj\moc_qresourcewidget.o
+./..\..\..\software\pages\resource\obj\moc_qresourcefilelist.o
+./..\..\..\software\pages\resource\obj\moc_qaddfilegroupdialog.o
+./..\..\..\software\pages\resource\obj\moc_qaddfiledialog.o
+./..\..\..\software\pages\resource\obj\moc_qeditorwidget.o
+./..\..\..\software\pages\resource\obj\moc_qstyledbarwidget.o
+./..\..\..\software\pages\resource\obj\qrc_resource.o
+);

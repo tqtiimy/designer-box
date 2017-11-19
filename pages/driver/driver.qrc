@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/driver.png</file>
+    </qresource>
+</RCC>

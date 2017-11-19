@@ -1,0 +1,17 @@
+INPUT(
+./..\..\..\software\pages\data\obj\qdataplugin.o
+./..\..\..\software\pages\data\obj\qdataviewtabwidget.o
+./..\..\..\software\pages\data\obj\qdatawidget.o
+./..\..\..\software\pages\data\obj\qdatalistwidget.o
+./..\..\..\software\pages\data\obj\qadddatadialog.o
+./..\..\..\software\pages\data\obj\qadddatagroupdialog.o
+./..\..\..\software\pages\data\obj\qdatagroupremovedialog.o
+./..\..\..\software\pages\data\obj\moc_qdataplugin.o
+./..\..\..\software\pages\data\obj\moc_qdataviewtabwidget.o
+./..\..\..\software\pages\data\obj\moc_qdatawidget.o
+./..\..\..\software\pages\data\obj\moc_qdatalistwidget.o
+./..\..\..\software\pages\data\obj\moc_qadddatadialog.o
+./..\..\..\software\pages\data\obj\moc_qadddatagroupdialog.o
+./..\..\..\software\pages\data\obj\moc_qdatagroupremovedialog.o
+./..\..\..\software\pages\data\obj\qrc_data.o
+);
