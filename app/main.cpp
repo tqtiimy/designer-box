@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 {
 	QApplication a(argc, argv);
 
+	//ÉèÖÃ×Ö·û¼¯
 	QTextCodec *gbk = QTextCodec::codecForName("GBK");
 	QTextCodec::setCodecForTr(gbk);
 	QTextCodec::setCodecForLocale(gbk);
