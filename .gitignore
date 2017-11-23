@@ -33,3 +33,6 @@
 
 # user data
 *.user
+
+# usr.bak
+*.bak
